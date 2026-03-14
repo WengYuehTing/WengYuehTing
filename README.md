@@ -21,22 +21,6 @@
 - Former infrastructure engineer at ByteDance (Douyin), working on large-scale codebase analysis, compiler optimization, and client architecture for high-traffic applications.
 - Currently focused on real-time video/audio communication (RTC) and on-device AI, with particular attention to integrating diffusion models into end devices.
 
-## Research
-
-**[1]** **FaceSight: Enabling Hand-to-Face Gesture Interaction on AR Glasses with a Downward-Facing Camera Vision**, **Yueting Weng**, Chun Yu, Yingtian Shi, Yuhang Zhao, Yukang Yan, Yuanchun Shi, **CHI 2021**, [Paper](https://dl.acm.org/doi/pdf/10.1145/3411764.3445484)
-
-**[2]** **HandSee: Enabling Full Hand Interaction on Smartphones with Front Camera-Based Stereo Vision**, Chun Yu, Xiaoying Wei, Shubh Vachher, Yue Qin, Chen Liang, **Yueting Weng**, Yizheng Gu, Yuanchun Shi, **CHI 2019**, [Paper](https://dl.acm.org/doi/pdf/10.1145/3290605.3300935)
-
-**[3]** **Understanding Window Management Interactions in AR Headset + Smartphone Interface**, Jie Ren, **Yueting Weng**, Chengchi Zhou, Chun Yu, Yuanchun Shi, **CHI EA 2020**, [Paper](https://dl.acm.org/doi/epdf/10.1145/3334480.3382812)
-
-**[4]** **Design and Evaluation of Window Management Operations in AR Headset+Smartphone Interface**, Jie Ren, Chun Yu, **Yueting Weng**, Chengchi Zhou, Yuanchun Shi, **Virtual Reality & Intelligent Hardware, 2022**, [Paper](https://www.sciencedirect.com/science/article/pii/S2096579621001017/pdfft)
-
-**[5]** **Selecting Real-World Objects via User-Perspective Phone Occlusion**, Yue Qin, Chun Yu, Wentao Yao, Jiachen Yao, Chen Liang, **Yueting Weng**, Yukang Yan, Yuanchun Shi, **CHI 2023**, [Paper](https://dl.acm.org/doi/pdf/10.1145/3544548.3580696)
-
-**[6]** **Generative Augmented Reality: Paradigms, Technologies, and Future Applications**, Chen Liang, Jiawen Zheng, Yufeng Zeng, Yi Tan, Hengye Lyu, Yuhui Zheng, Zisu Li, **Yueting Weng**, Jiaxin Shi, Hanwang Zhang, **arXiv preprint, 2025**, [Paper](https://arxiv.org/pdf/2511.16783)
-
-**[7]** **DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**, Hengye Lyu, Zisu Li, Yue Hong, **Yueting Weng**, Jiaxin Shi, Hanwang Zhang, Chen Liang, **ECCV 2026**, [Paper](https://openreview.net/pdf?id=02tDYYQ0ty)
-
 ## Languages and Tools
 
 <p>
@@ -60,7 +44,6 @@
   <img src="https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="28" />
 </p>
 
-
 ## GitHub Statistics
 
 <p>
@@ -70,3 +53,20 @@
   </p>
 </p>
 
+
+
+## Research
+
+**[1]** **FaceSight: Enabling Hand-to-Face Gesture Interaction on AR Glasses with a Downward-Facing Camera Vision**, **Yueting Weng**, Chun Yu, Yingtian Shi, Yuhang Zhao, Yukang Yan, Yuanchun Shi, **CHI 2021**, [Paper](https://dl.acm.org/doi/pdf/10.1145/3411764.3445484)
+
+**[2]** **HandSee: Enabling Full Hand Interaction on Smartphones with Front Camera-Based Stereo Vision**, Chun Yu, Xiaoying Wei, Shubh Vachher, Yue Qin, Chen Liang, **Yueting Weng**, Yizheng Gu, Yuanchun Shi, **CHI 2019**, [Paper](https://dl.acm.org/doi/pdf/10.1145/3290605.3300935)
+
+**[3]** **Understanding Window Management Interactions in AR Headset + Smartphone Interface**, Jie Ren, **Yueting Weng**, Chengchi Zhou, Chun Yu, Yuanchun Shi, **CHI EA 2020**, [Paper](https://dl.acm.org/doi/epdf/10.1145/3334480.3382812)
+
+**[4]** **Design and Evaluation of Window Management Operations in AR Headset+Smartphone Interface**, Jie Ren, Chun Yu, **Yueting Weng**, Chengchi Zhou, Yuanchun Shi, **Virtual Reality & Intelligent Hardware, 2022**, [Paper](https://www.sciencedirect.com/science/article/pii/S2096579621001017/pdfft)
+
+**[5]** **Selecting Real-World Objects via User-Perspective Phone Occlusion**, Yue Qin, Chun Yu, Wentao Yao, Jiachen Yao, Chen Liang, **Yueting Weng**, Yukang Yan, Yuanchun Shi, **CHI 2023**, [Paper](https://dl.acm.org/doi/pdf/10.1145/3544548.3580696)
+
+**[6]** **Generative Augmented Reality: Paradigms, Technologies, and Future Applications**, Chen Liang, Jiawen Zheng, Yufeng Zeng, Yi Tan, Hengye Lyu, Yuhui Zheng, Zisu Li, **Yueting Weng**, Jiaxin Shi, Hanwang Zhang, **arXiv preprint, 2025**, [Paper](https://arxiv.org/pdf/2511.16783)
+
+**[7]** **DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**, Hengye Lyu, Zisu Li, Yue Hong, **Yueting Weng**, Jiaxin Shi, Hanwang Zhang, Chen Liang, **ECCV 2026**, [Paper](https://openreview.net/pdf?id=02tDYYQ0ty)
