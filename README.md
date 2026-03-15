@@ -16,9 +16,8 @@
 
 ## About Me
 
-- Software engineer experienced in turning early ideas into prototypes and rapidly iterating into production-ready applications.
-- Hands-on experience across native mobile (`iOS`, `Android`), desktop (`Windows UWP`, `macOS`), and interactive / game clients (`Unity` and `Unreal Engine`).
 - Former infrastructure engineer at ByteDance (Douyin), working on large-scale codebase analysis, compiler optimization, and client architecture for high-traffic applications.
+- Hands-on experience across native mobile (`iOS`, `Android`), desktop (`Windows UWP`, `macOS`), and interactive / game clients (`Unity` and `Unreal Engine`).
 - Currently focused on real-time video/audio communication (RTC) and on-device AI, with particular attention to integrating diffusion models into end devices.
 
 ## Languages and Tools
