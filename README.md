@@ -46,7 +46,7 @@
 ## GitHub Statistics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WengYuehTing&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Yueting Weng GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WengYuehTing&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Yueting Weng GitHub stats" height="180" />
   <p>
     <img src="https://streak-stats.demolab.com?user=WengYuehTing&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
   </p>
