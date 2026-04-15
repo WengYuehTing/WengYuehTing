@@ -12,8 +12,6 @@
   </a>
 </p>
 
-
-
 ## About Me
 
 - Former infrastructure engineer at ByteDance (Douyin), working on large-scale codebase analysis, compiler optimization, and client architecture for high-traffic applications.
@@ -45,14 +43,27 @@
 
 ## GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WengYuehTing&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Yueting Weng GitHub stats" height="180" />
-  <p>
-    <img src="https://streak-stats.demolab.com?user=WengYuehTing&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180" />
-  </p>
+<p align="center">
+  <a href="http://www.github.com/Dvurechensky">
+    <img
+      src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=WengYuehTing&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      alt="GitHub stats"
+      height="180"
+    />
+  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=WengYuehTing&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+    height="180"
+  />
 </p>
 
-
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=WengYuehTing&theme=github-dark&area=true&hide_border=true"
+    alt="Contributions Graph"
+  />
+</div>
 
 ## Research
 
