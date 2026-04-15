@@ -18,9 +18,9 @@
 - Hands-on experience across native mobile (`iOS`, `Android`), desktop (`Windows UWP`, `macOS`), and interactive / game clients (`Unity` and `Unreal Engine`).
 - Currently focused on real-time video/audio communication (RTC) and on-device AI, with particular attention to integrating diffusion models into end devices.
 
+<br>
+
 ## Languages and Tools
-
-
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" height="40" />
@@ -43,20 +43,22 @@
   <img src="https://img.shields.io/badge/Cursor-222222?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="28" />
 </p>
 
-
+<br>
 
 ## GitHub Statistics
 
-<p>
+<p align="center">
   <a href="http://www.github.com/Dvurechensky">
     <img
       src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=WengYuehTing&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
       alt="GitHub stats"
+      width="47.5%"
     />
   </a>
   <img
     src="https://streak-stats.demolab.com?user=WengYuehTing&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
+    width="50.5%"
   />
 </p>
 
