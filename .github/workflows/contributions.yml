@@ -1,0 +1,38 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_contributions.py
+      - .github/workflows/contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate SVG from public GitHub data
+        run: python3 scripts/update_contributions.py
+      - name: Commit updated graph
+        run: |
+          git add assets/contributions.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update contribution graph'
+          git pull --rebase origin main
+          git push origin HEAD:main
