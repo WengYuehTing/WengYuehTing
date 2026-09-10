@@ -64,7 +64,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=WengYuehTing&theme=tokyo-night&area=true&hide_border=true"
+    src="assets/contributions.svg"
     alt="Contributions Graph"
   />
 </div>
