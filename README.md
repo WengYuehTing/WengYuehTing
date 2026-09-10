@@ -48,9 +48,9 @@
 ## GitHub Statistics
 
 <p align="center">
-  <a href="http://www.github.com/Dvurechensky">
+  <a href="https://github.com/WengYuehTing">
     <img
-      src="https://github-readme-stats-f96j5uyxx-rafaelalexandrino.vercel.app/api?username=WengYuehTing&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api?username=WengYuehTing&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
       alt="GitHub stats"
       width="47.5%"
     />
@@ -64,7 +64,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=WengYuehTing&theme=github-dark&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=WengYuehTing&theme=tokyo-night&area=true&hide_border=true"
     alt="Contributions Graph"
   />
 </div>
